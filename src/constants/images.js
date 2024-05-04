@@ -21,6 +21,7 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import lecoin from '../assets/Le-coin.png'
+import C from '../assets/C.png'
 
 export default {
   bg,
@@ -46,4 +47,6 @@ export default {
   quote,
   gericht,
   lecoin,
+  C,
+  
 };
