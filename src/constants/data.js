@@ -4,12 +4,12 @@ const wines = [
   {
     title: 'Chapel Hill Shiraz',
     price: '$56',
-    tags: 'AU | Bottle',
+    tags: 'AU | Bouteille',
   },
   {
     title: 'Catena Malbee',
     price: '$59',
-    tags: 'AU | Bottle',
+    tags: 'AU | Bouteille',
   },
   {
     title: 'La Vieillw Rose',
@@ -37,22 +37,22 @@ const cocktails = [
   {
     title: "Dark 'N' Stormy",
     price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    tags: 'Rhum brun | Gingembre bière | Tranche de citron vert',
   },
   {
     title: 'Daiquiri',
     price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    tags: "Rhum | Jus d'agrumes | Sucre",
   },
   {
     title: 'Old Fashioned',
     price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    tags: 'Bourbon | Sucre brun | Angostura Bitters',
   },
   {
     title: 'Negroni',
     price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    tags: "Gin | Vermouth doux | Campari | Garniture d'orange",
   },
 ];
 
