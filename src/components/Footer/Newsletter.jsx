@@ -4,7 +4,7 @@ import "./Newsletter.css";
 
 const Newsletter = () => (
   <div className="app__newsletter">
-    <div className="app__newsletter-heading">
+    <div className="app__newsletter-heading" id="contact">
       <SubHeading title="Newsletter" />
       <h1 className="headtext__cormorant">Inscrivez-vous à notre newsletter</h1>
       <p className="p__opensans">
