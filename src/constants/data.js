@@ -64,7 +64,7 @@ const awards = [
   },
   {
     imgUrl: images.award01,
-    title: 'Rising Star',
+    title: 'Étoile Montante',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
@@ -74,7 +74,7 @@ const awards = [
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
+    title: 'Chef Exceptionnel',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
 ];
