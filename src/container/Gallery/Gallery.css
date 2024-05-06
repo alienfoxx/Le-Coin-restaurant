@@ -80,6 +80,9 @@
 .gallery__arrow-icon:hover {
   color: #fff;
 }
+
+/* media quiers */
+
 @media screen and (min-width: 2000px) {
   .app__gallery-content {
     min-width: 1000px;

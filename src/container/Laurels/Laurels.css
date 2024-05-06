@@ -22,6 +22,9 @@
   flex-direction: column;
   margin-left: 1rem;
 }
+
+/* media queris */
+
 @media screen and (min-width: 1900px) {
   .app__laurels_awards-card {
     min-width: 390px;
